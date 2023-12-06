@@ -1,0 +1,5 @@
+*.doc
+/.idea/.gitignore
+/.idea/go_backend_test_homework.iml
+/.idea/modules.xml
+/.idea/vcs.xml
